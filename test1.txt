@@ -1,10 +1,2 @@
- Volume in drive C has no label.
- Volume Serial Number is AA79-86F2
-
- Directory of C:\Users\imran.madni\OneDrive - AGM Solutions\Desktop\MAD
-
-14/03/2022  16:34    <DIR>          .
-14/03/2022  16:34    <DIR>          ..
-14/03/2022  16:34                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  79,992,754,176 bytes free
+ree
+it is test file to learn the GIT       
